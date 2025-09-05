@@ -3,7 +3,7 @@ Machine learning project to predict used car prices using the autocasion.csv dat
 
 # Setup
 1. Clone the repo: `git clone https://github.com/ASalonio/MLExercises.git`
-2. Install dependencies: `pip install -r requirements_exercise_II.txt`
+2. Install dependencies: `pip install -r requirements_exercise_I.txt`
 3. Run notebook: `jupyter notebook exercise_I.ipynb`
 
 # Data and Model
